@@ -1,5 +1,7 @@
 # Kubernetes-Centric CI/CD
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/4634aed9-274d-4cef-9a4e-d78858c13a2d.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/kubernetes-cicd?orgId=561911742905)  
+
 This repository captures the talk and demonstration presented at `{x,y,z}`. The aim is to cover the current Kubernetes ecosystem, which enables an entirely Kubernetes based CI and CD solution to be implemented. We also discuss the benefits of this and why you should care.
 
 A deeper dive into the workflows and core concepts can be found in the blog series as follows:
